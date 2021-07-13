@@ -8,7 +8,9 @@ const {
     deleteAbc,
     sortArray,
     buscoInterseccion,
+    palindromo,
 } = require('../homework');
+
 
 
 describe('deObjetoAmatriz(objeto)', function() {
